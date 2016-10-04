@@ -1,16 +1,16 @@
-Nick Jarvis
-alex schmersal
-Kyle Burge
-Jayson Rook
-Kwangju Kim
-Tyler Davis
-Cole Hoffbauer
-Ben Roth
-Steven Kast
-Nick Hutchison
-Jack Massey
-Kelsea McGraw
-Benjamin Williams
-Nate Mara
-Michael Nguyen
-Zach Rudy
+* Nick Jarvis
+* alex schmersal
+* Kyle Burge
+* Jayson Rook
+* Kwangju Kim
+* Tyler Davis
+* Cole Hoffbauer
+* Ben Roth
+* Steven Kast
+* Nick Hutchison
+* Jack Massey
+* Kelsea McGraw
+* Benjamin Williams
+* Nate Mara
+* Michael Nguyen
+* Zach Rudy
